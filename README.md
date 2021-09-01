@@ -1,2 +1,2 @@
 # BDDA2
-Credit Card Fraud Detection Project
+All 4 Projects
